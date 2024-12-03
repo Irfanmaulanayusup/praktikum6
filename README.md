@@ -5,7 +5,8 @@ Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
 # ```Program Input Nilai```
 ## Flowchart
-![gambar 5](SKRNST.png)
+![gambar 5](flcrt1.png)
+![gambar 5](flcrt2.png)
 ## Code Program
 ![gambar 1](pict1.png)
 ![gambar 2](pict2.png)
