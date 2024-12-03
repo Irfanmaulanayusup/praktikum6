@@ -5,10 +5,10 @@ Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
 # ```Program Input Nilai```
 ## Flowchart
-![gambar 5](https://github.com/user-attachments/assets/1686eec9-ec54-4dbd-b449-7bc5dff6e932)
+![gambar 5](SKRNST.png)
 ## Code Program
-![gambar 1](https://github.com/user-attachments/assets/5cf5b4a3-6d29-479b-98ec-e0436b605b3b)
-![gambar 2](https://github.com/user-attachments/assets/55f2f7c3-f843-4991-8f92-34c54a1907e3)
+![gambar 1](pict1.png)
+![gambar 2](pict2.png)
 
 ### Penjelasan Program
 1. Header dan Kelas Student:
