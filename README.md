@@ -64,23 +64,24 @@ Fungsi ubah memeriksa apakah nama lama ada dalam daftar mahasiswa. Jika ditemuka
 
 6. Contoh Penggunaan:
 ```python
-tambah("Coki")
-tambah("Lala")
-tambah("Citra")
 tambah("Rizal")
+tambah("Nabilah")
+tambah("Mela")
 tambah("Putri")
+tambah("Reza")
 tampilkan()
-hapus("Lala")
+hapus("Nabilah")
 tampilkan()
-ubah("Citra", "Sarah")
+ubah("Mela", "Mia")
 tampilkan()
+
 ```
 
 Baris-baris ini menunjukkan bagaimana cara menggunakan fungsi-fungsi tersebut:
-- Menambah mahasiswa: Coki, Lala, Citra, Rizal, dan Putri.
+- Menambah mahasiswa: Rizal, Nabilah, Putri, Mela, dan Reza.
 - Menampilkan daftar mahasiswa.
-- Menghapus Lala dari daftar mahasiswa dan menampilkan daftar mahasiswa yang telah diperbarui.
-- Mengubah Citra menjadi Sarah dan menampilkan daftar mahasiswa yang telah diperbarui.
+- Menghapus Nabilah dari daftar mahasiswa dan menampilkan daftar mahasiswa yang telah diperbarui.
+- Mengubah Mela menjadi Mia dan menampilkan daftar mahasiswa yang telah diperbarui.
 
 ## Ini hasil/output dari program yang saya buat
 
@@ -89,24 +90,24 @@ Baris-baris ini menunjukkan bagaimana cara menggunakan fungsi-fungsi tersebut:
 
 ## Ini penjelasan dari flowchart yang saya buat
 
-1. Mulai.
+1.Mulai: Proses dimulai dari langkah ini.
 
-2. Membuat sebuah list kosong bernama daftar_mahasiswa.
+2.Pembuatan Daftar Kosong: Membuat sebuah daftar kosong yang dinamakan daftar_mahasiswa.
 
-3. Menambahkan mahasiswa kedalam daftar mahasiswa: Coki, Lala, Citra, Rizal, Putri.
+3.Penambahan Data Mahasiswa: Menambahkan nama-nama mahasiswa seperti Rizal, Nabilah, Mela, Reza, dan Putri ke dalam daftar_mahasiswa.
 
-4. Lalu simpan pada list daftar_mahasiswa.
+4.Penyimpanan Data: Menyimpan nama-nama mahasiswa yang telah ditambahkan ke dalam daftar_mahasiswa.
 
-5. Apakah daftar_mahasiswa kosong?
+5.Pemeriksaan Keadaan Daftar: Memeriksa apakah daftar_mahasiswa kosong:
 
-- Jika ya, Tampilkan "Tidak ada data mahasiswa".
+Jika kosong, tampilkan pesan "Tidak ada data mahasiswa".
 
-- Jika tidak, Tampilkan list Daftar_mahasiswa.
+Jika tidak kosong, tampilkan isi dari daftar_mahasiswa.
 
-6. Apakah nama Lala ada dalam daftar_mahasiswa?
+6.Pengecekan Nama Nabilah: Memeriksa apakah nama Nabilah terdapat dalam daftar_mahasiswa:
 
-- Jika ya, Maka hapus Lala dalam list daftar_mahasiswa.
+Jika ada, maka hapus nama Nabilah dari daftar_mahasiswa.
 
-- Jika tidak, Maka Tampilkan "Mahasiswa dengan nama Lala tidak ditemukan".
+Jika tidak ada, tampilkan pesan "Mahasiswa dengan nama Nabilah tidak ditemukan".
 
-7. Simpan data tersebut ke dalam list daftar_mahasiswa.
+7.Penyimpanan Perubahan Data: Menyimpan data yang telah diperbarui ke dalam daftar_mahasiswa.
