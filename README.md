@@ -10,7 +10,7 @@ Mata kuliah : Bahasa Pemrograman <p>
 ![gambar 1](pict1.png)
 ![gambar 2](pict2.png)
 
-### Penjelasan Program
+### Penjelasan Program yang saya buat
 1. Header dan Kelas Student:
    
 ```python
@@ -121,6 +121,6 @@ Mata kuliah : Bahasa Pemrograman <p>
      - **Ubah (```u```)**: Mengubah data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa diperbarui dengan data baru.
      - **Hapus (```h```)**: Menghapus data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa dihapus dari daftar students.
      - **Keluar (```k```)**: Keluar dari program.
-## Output Program
-![gambar 3](https://github.com/user-attachments/assets/a631119d-8212-4e08-990a-e6b11842ccbf)
-![gambar 4](https://github.com/user-attachments/assets/9f731c3a-bd5b-41f2-87d0-269e325957a3)
+## Output/Hasil program
+![gambar 3](hasilprogram.png)
+
